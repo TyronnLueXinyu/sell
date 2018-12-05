@@ -23,7 +23,7 @@ public class ProductCategoryRepositoryTest {
     public void findOneTest(){
         ProductCategory productCategory = repository.findOne(1);
         System.out.println(productCategory.toString());
-        System.out.println(134113);
+        System.out.println("我爱你");
     }
 
 }
